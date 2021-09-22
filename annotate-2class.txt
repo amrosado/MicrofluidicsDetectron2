@@ -1,0 +1,444 @@
+train_images/Image__2021-06-28__12-42-04.tiff,48,213,86,252,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,383,241,416,286,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,137,401,180,443,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,294,461,331,498,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,71,21,123,69,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,162,284,200,322,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,195,289,237,333,CD8
+train_images/Image__2021-06-28__12-42-04.tiff,414,394,462,443,activated CD8
+train_images/Image__2021-06-28__12-42-56.tiff,113,1,150,27,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,58,66,97,104,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,324,111,370,158,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,228,256,261,291,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,312,359,352,397,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,288,384,324,414,CD8
+train_images/Image__2021-06-28__12-42-56.tiff,124,258,156,303,activated CD8
+train_images/Image__2021-06-28__12-42-56.tiff,151,257,194,302,activated CD8
+train_images/Image__2021-06-28__12-43-12.tiff,308,241,345,281,CD8
+train_images/Image__2021-06-28__12-43-12.tiff,221,289,260,323,CD8
+train_images/Image__2021-06-28__12-43-12.tiff,169,328,209,364,CD8
+train_images/Image__2021-06-28__12-43-12.tiff,114,320,165,358,activated CD8
+train_images/Image__2021-06-28__12-43-12.tiff,1,81,26,124,CD8
+train_images/Image__2021-06-28__12-43-12.tiff,361,173,409,223,activated CD8
+train_images/Image__2021-06-28__12-43-16.tiff,241,107,275,140,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,367,82,403,117,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,400,68,426,114,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,240,418,277,453,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,325,370,361,407,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,184,462,225,500,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,1,236,38,277,CD8
+train_images/Image__2021-06-28__12-43-16.tiff,379,323,427,369,activated CD8
+train_images/Image__2021-06-28__12-43-16.tiff,128,456,180,496,activated CD8
+train_images/Image__2021-06-28__12-44-27.tiff,18,45,51,79,CD8
+train_images/Image__2021-06-28__12-44-27.tiff,337,229,375,260,CD8
+train_images/Image__2021-06-28__12-44-27.tiff,118,236,167,277,CD8
+train_images/Image__2021-06-28__12-44-27.tiff,370,176,416,212,activated CD8
+train_images/Image__2021-06-28__12-44-55.tiff,82,122,114,154,CD8
+train_images/Image__2021-06-28__12-44-55.tiff,173,193,212,226,activated CD8
+train_images/Image__2021-06-28__12-44-55.tiff,212,166,244,197,CD8
+train_images/Image__2021-06-28__12-44-55.tiff,139,277,175,311,CD8
+train_images/Image__2021-06-28__12-44-55.tiff,51,54,86,93,activated CD8
+train_images/Image__2021-06-28__12-45-06.tiff,52,206,86,238,CD8
+train_images/Image__2021-06-28__12-45-06.tiff,337,247,371,280,CD8
+train_images/Image__2021-06-28__12-45-06.tiff,299,384,332,419,CD8
+train_images/Image__2021-06-28__12-45-06.tiff,387,343,421,382,CD8
+train_images/Image__2021-06-28__12-45-06.tiff,420,347,452,385,CD8
+train_images/Image__2021-06-28__12-45-06.tiff,452,258,480,292,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,97,205,130,246,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,133,37,167,70,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,140,251,177,286,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,198,249,231,282,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,6,367,60,409,CD8
+train_images/Image__2021-06-28__12-45-25.tiff,148,437,187,476,CD8
+train_images/Image__2021-06-28__12-45-40.tiff,157,256,190,291,CD8
+train_images/Image__2021-06-28__12-45-40.tiff,209,224,240,253,CD8
+train_images/Image__2021-06-28__12-45-40.tiff,152,406,190,441,CD8
+train_images/Image__2021-06-28__12-46-13.tiff,1,173,48,213,CD8
+train_images/Image__2021-06-28__12-46-13.tiff,109,277,142,310,CD8
+train_images/Image__2021-06-28__12-46-13.tiff,379,180,409,212,activated CD8
+train_images/Image__2021-06-28__12-46-13.tiff,359,382,390,410,CD8
+train_images/Image__2021-06-28__12-46-13.tiff,178,444,216,476,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,147,90,187,129,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,82,324,123,362,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,68,372,109,411,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,315,330,373,375,activated CD8
+train_images/Image__2021-06-28__12-46-32.tiff,394,255,439,300,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,428,208,472,250,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,354,116,390,156,CD8
+train_images/Image__2021-06-28__12-46-32.tiff,387,111,436,156,activated CD8
+train_images/Image__2021-06-28__12-46-32.tiff,74,231,120,264,activated CD8
+train_images/Image__2021-06-28__12-47-05.tiff,141,123,180,158,CD8
+train_images/Image__2021-06-28__12-47-05.tiff,191,318,223,348,CD8
+train_images/Image__2021-06-28__12-47-05.tiff,282,322,321,359,CD8
+train_images/Image__2021-06-28__12-47-21.tiff,42,352,78,388,CD8
+train_images/Image__2021-06-28__12-47-21.tiff,336,270,382,312,activated CD8
+train_images/Image__2021-06-28__12-47-21.tiff,404,259,435,288,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,205,171,237,204,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,300,95,332,127,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,329,129,361,155,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,359,85,395,121,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,124,352,164,389,CD8
+train_images/Image__2021-06-28__12-47-31.tiff,101,313,155,355,activated CD8
+train_images/Image__2021-06-28__12-47-44.tiff,304,226,352,271,CD8
+train_images/Image__2021-06-28__12-47-44.tiff,367,190,400,219,CD8
+train_images/Image__2021-06-28__12-47-44.tiff,34,78,65,110,CD8
+train_images/Image__2021-06-28__12-47-44.tiff,66,156,113,199,CD8
+train_images/Image__2021-06-28__12-47-44.tiff,288,74,337,121,CD8
+train_images/Image__2021-06-28__12-48-00.tiff,383,216,424,260,CD8
+train_images/Image__2021-06-28__12-48-00.tiff,412,264,442,292,CD8
+train_images/Image__2021-06-28__12-48-00.tiff,388,83,415,114,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,72,89,111,132,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,92,185,130,225,activated CD8
+train_images/Image__2021-06-28__12-48-13.tiff,127,295,156,328,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,176,340,207,371,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,305,298,341,332,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,427,203,458,236,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,383,59,418,94,CD8
+train_images/Image__2021-06-28__12-48-13.tiff,333,1,383,22,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,61,163,101,205,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,93,186,133,228,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,186,429,219,460,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,322,412,357,447,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,440,293,468,322,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,390,155,426,191,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,345,81,390,121,CD8
+train_images/Image__2021-06-28__12-48-17.tiff,418,29,453,63,CD8
+train_images/Image__2021-06-28__12-48-43.tiff,137,25,183,66,activated CD8
+train_images/Image__2021-06-28__12-48-43.tiff,1,74,34,106,CD8
+train_images/Image__2021-06-28__12-48-43.tiff,67,152,112,194,CD8
+train_images/Image__2021-06-28__12-48-43.tiff,353,299,396,337,CD8
+train_images/Image__2021-06-28__12-48-43.tiff,95,428,132,467,CD8
+train_images/Image__2021-06-28__12-48-43.tiff,147,440,176,471,CD8
+train_images/Image__2021-06-28__12-49-01.tiff,218,326,263,376,CD8
+train_images/Image__2021-06-28__12-49-01.tiff,270,176,298,202,CD8
+train_images/Image__2021-06-28__12-49-01.tiff,398,204,445,241,activated CD8
+train_images/Image__2021-06-28__12-49-01.tiff,273,430,303,455,CD8
+train_images/Image__2021-06-28__12-49-01.tiff,181,322,226,364,activated CD8
+train_images/Image__2021-06-28__12-49-12.tiff,304,209,350,244,activated CD8
+train_images/Image__2021-06-28__12-49-12.tiff,78,214,114,246,CD8
+train_images/Image__2021-06-28__12-49-12.tiff,159,78,191,107,CD8
+train_images/Image__2021-06-28__12-49-12.tiff,204,425,234,452,CD8
+train_images/Image__2021-06-28__12-49-25.tiff,102,139,135,171,CD8
+train_images/Image__2021-06-28__12-49-25.tiff,305,209,349,245,activated CD8
+train_images/Image__2021-06-28__12-49-25.tiff,188,350,222,380,CD8
+train_images/Image__2021-06-28__12-49-35.tiff,200,140,251,178,activated CD8
+train_images/Image__2021-06-28__12-49-35.tiff,414,87,444,115,CD8
+train_images/Image__2021-06-28__12-49-35.tiff,150,291,186,327,CD8
+train_images/Image__2021-06-28__12-49-35.tiff,349,410,384,442,CD8
+train_images/Image__2021-06-28__12-49-44.tiff,11,24,50,63,CD8
+train_images/Image__2021-06-28__12-49-44.tiff,170,164,210,201,CD8
+train_images/Image__2021-06-28__12-49-44.tiff,428,262,466,295,CD8
+train_images/Image__2021-06-28__12-49-44.tiff,223,379,275,426,activated CD8
+train_images/Image__2021-06-28__12-49-54.tiff,35,397,67,426,CD8
+train_images/Image__2021-06-28__12-49-54.tiff,169,300,203,335,CD8
+train_images/Image__2021-06-28__12-49-54.tiff,188,355,225,392,CD8
+train_images/Image__2021-06-28__12-49-54.tiff,434,86,470,121,CD8
+train_images/Image__2021-06-28__12-50-03.tiff,63,60,103,100,CD8
+train_images/Image__2021-06-28__12-50-03.tiff,336,185,368,216,CD8
+train_images/Image__2021-06-28__12-50-13.tiff,100,273,131,304,CD8
+train_images/Image__2021-06-28__12-50-13.tiff,368,291,404,326,CD8
+train_images/Image__2021-06-28__12-50-13.tiff,306,87,343,122,CD8
+train_images/Image__2021-06-28__12-50-25.tiff,107,80,143,114,CD8
+train_images/Image__2021-06-28__12-50-25.tiff,39,195,81,237,CD8
+train_images/Image__2021-06-28__12-50-25.tiff,400,450,440,485,CD8
+train_images/Image__2021-06-28__12-50-38.tiff,155,173,190,205,CD8
+train_images/Image__2021-06-28__12-50-38.tiff,372,106,407,139,CD8
+train_images/Image__2021-06-28__12-50-38.tiff,62,398,101,438,CD8
+train_images/Image__2021-06-28__12-50-38.tiff,308,290,355,334,CD8
+train_images/Image__2021-06-28__12-50-57.tiff,102,186,131,215,CD8
+train_images/Image__2021-06-28__12-50-57.tiff,246,222,278,255,CD8
+train_images/Image__2021-06-28__12-50-57.tiff,355,121,394,158,activated CD8
+train_images/Image__2021-06-28__12-51-08.tiff,384,19,421,58,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,275,63,310,96,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,282,180,325,219,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,178,279,215,316,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,111,336,144,367,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,429,414,459,446,CD8
+train_images/Image__2021-06-28__12-51-08.tiff,158,89,173,107,platelet
+train_images/Image__2021-06-28__12-51-25.tiff,31,200,68,234,CD8
+train_images/Image__2021-06-28__12-51-25.tiff,261,273,299,311,CD8
+train_images/Image__2021-06-28__12-51-25.tiff,386,411,421,445,CD8
+train_images/Image__2021-06-28__12-51-33.tiff,379,83,418,125,activated CD8
+train_images/Image__2021-06-28__12-51-33.tiff,42,411,81,447,CD8
+train_images/Image__2021-06-28__12-51-33.tiff,179,317,210,348,CD8
+train_images/Image__2021-06-28__12-51-33.tiff,308,276,341,311,CD8
+train_images/Image__2021-06-28__12-51-33.tiff,358,431,400,468,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,66,59,102,94,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,138,84,175,121,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,333,155,375,195,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,390,283,421,314,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,173,321,213,355,activated CD8
+train_images/Image__2021-06-28__12-51-55.tiff,199,340,233,372,CD8
+train_images/Image__2021-06-28__12-51-55.tiff,98,220,144,260,CD8
+train_images/Image__2021-06-28__12-52-10.tiff,267,163,299,197,CD8
+train_images/Image__2021-06-28__12-52-10.tiff,173,424,211,462,CD8
+train_images/Image__2021-06-28__12-52-21.tiff,210,116,243,148,CD8
+train_images/Image__2021-06-28__12-52-21.tiff,239,187,280,226,CD8
+train_images/Image__2021-06-28__12-52-31.tiff,153,76,188,109,CD8
+train_images/Image__2021-06-28__12-52-31.tiff,285,54,318,87,CD8
+train_images/Image__2021-06-28__12-52-31.tiff,72,349,105,381,CD8
+train_images/Image__2021-06-28__12-52-31.tiff,77,197,121,240,CD8
+train_images/Image__2021-06-28__12-52-40.tiff,79,199,119,241,CD8
+train_images/Image__2021-06-28__12-52-40.tiff,309,266,340,298,CD8
+train_images/Image__2021-06-28__12-52-40.tiff,173,293,206,326,CD8
+train_images/Image__2021-06-28__12-52-40.tiff,249,44,284,75,CD8
+train_images/Image__2021-06-28__12-52-47.tiff,79,197,118,240,CD8
+train_images/Image__2021-06-28__12-52-47.tiff,266,213,302,244,CD8
+train_images/Image__2021-06-28__12-52-47.tiff,318,419,351,450,CD8
+train_images/Image__2021-06-28__12-52-47.tiff,185,454,220,485,CD8
+train_images/Image__2021-06-28__12-52-53.tiff,167,83,198,112,CD8
+train_images/Image__2021-06-28__12-52-53.tiff,11,130,55,174,CD8
+train_images/Image__2021-06-28__12-52-53.tiff,79,197,118,239,CD8
+train_images/Image__2021-06-28__12-52-53.tiff,285,372,319,404,CD8
+train_images/Image__2021-06-28__12-53-01.tiff,157,58,188,86,CD8
+train_images/Image__2021-06-28__12-53-01.tiff,268,57,300,86,CD8
+train_images/Image__2021-06-28__12-53-01.tiff,369,221,416,262,activated CD8
+train_images/Image__2021-06-28__12-53-01.tiff,304,450,351,492,activated CD8
+train_images/Image__2021-06-28__12-53-01.tiff,136,250,169,277,CD8
+train_images/Image__2021-06-28__12-53-09.tiff,36,166,79,209,CD8
+train_images/Image__2021-06-28__12-53-09.tiff,211,100,261,149,CD8
+train_images/Image__2021-06-28__12-53-09.tiff,430,85,469,121,CD8
+train_images/Image__2021-06-28__12-53-09.tiff,408,260,450,299,CD8
+train_images/Image__2021-06-28__12-53-09.tiff,356,288,400,331,activated CD8
+train_images/Image__2021-06-28__12-53-09.tiff,391,284,424,314,CD8
+train_images/Image__2021-06-28__12-53-14.tiff,48,296,91,334,activated CD8
+train_images/Image__2021-06-28__12-53-14.tiff,231,264,274,309,CD8
+train_images/Image__2021-06-28__12-53-14.tiff,250,42,287,71,activated CD8
+train_images/Image__2021-06-28__12-53-14.tiff,442,155,475,190,activated CD8
+train_images/Image__2021-06-28__12-53-14.tiff,375,410,415,453,activated CD8
+train_images/Image__2021-06-28__12-53-14.tiff,425,355,461,390,CD8
+train_images/Image__2021-06-28__12-53-14.tiff,397,369,426,399,CD8
+train_images/Image__2021-06-28__12-53-24.tiff,58,387,96,421,CD8
+train_images/Image__2021-06-28__12-53-24.tiff,170,204,218,254,CD8
+train_images/Image__2021-06-28__12-53-24.tiff,135,105,175,139,activated CD8
+train_images/Image__2021-06-28__12-53-24.tiff,403,18,446,58,activated CD8
+train_images/Image__2021-06-28__12-53-30.tiff,190,385,240,432,CD8
+train_images/Image__2021-06-28__12-53-30.tiff,135,101,173,139,activated CD8
+train_images/Image__2021-06-28__12-53-30.tiff,406,20,450,59,activated CD8
+train_images/Image__2021-06-28__12-53-30.tiff,384,80,415,112,CD8
+train_images/Image__2021-06-28__12-53-40.tiff,63,37,105,76,CD8
+train_images/Image__2021-06-28__12-53-40.tiff,239,176,274,209,CD8
+train_images/Image__2021-06-28__12-53-40.tiff,130,386,172,422,activated CD8
+train_images/Image__2021-06-28__12-53-55.tiff,78,279,119,319,CD8
+train_images/Image__2021-06-28__12-53-55.tiff,354,215,388,249,CD8
+train_images/Image__2021-06-28__12-54-01.tiff,162,30,198,62,CD8
+train_images/Image__2021-06-28__12-54-01.tiff,154,421,192,457,CD8
+train_images/Image__2021-06-28__12-54-01.tiff,436,416,471,452,CD8
+train_images/Image__2021-06-28__12-54-09.tiff,213,118,253,152,CD8
+train_images/Image__2021-06-28__12-54-09.tiff,186,187,221,220,CD8
+train_images/Image__2021-06-28__12-54-13.tiff,225,200,259,236,CD8
+train_images/Image__2021-06-28__12-54-13.tiff,200,264,230,296,CD8
+train_images/Image__2021-06-28__12-54-13.tiff,396,72,447,120,CD8
+train_images/Image__2021-06-28__12-54-21.tiff,89,47,130,96,activated CD8
+train_images/Image__2021-06-28__12-54-21.tiff,120,35,160,73,activated CD8
+train_images/Image__2021-06-28__12-54-21.tiff,427,347,478,395,CD8
+train_images/Image__2021-06-28__12-54-21.tiff,245,383,281,419,CD8
+train_images/Image__2021-06-28__12-54-21.tiff,215,438,248,468,CD8
+train_images/Image__2021-06-28__12-54-33.tiff,330,259,364,293,CD8
+train_images/Image__2021-06-28__12-54-33.tiff,155,374,196,413,CD8
+train_images/Image__2021-06-28__12-54-33.tiff,128,391,175,439,CD8
+train_images/Image__2021-06-28__12-54-33.tiff,13,32,43,63,CD8
+train_images/Image__2021-06-28__12-54-33.tiff,1,35,21,67,CD8
+train_images/Image__2021-06-28__12-54-41.tiff,83,120,122,156,CD8
+train_images/Image__2021-06-28__12-54-41.tiff,31,387,69,425,CD8
+train_images/Image__2021-06-28__12-54-41.tiff,428,462,463,499,CD8
+train_images/Image__2021-06-28__12-54-41.tiff,109,163,138,193,CD8
+train_images/Image__2021-06-28__12-54-41.tiff,95,168,119,196,CD8
+train_images/Image__2021-06-28__12-54-53.tiff,13,1,53,33,activated CD8
+train_images/Image__2021-06-28__12-54-53.tiff,184,72,215,103,CD8
+train_images/Image__2021-06-28__12-54-53.tiff,125,91,154,120,CD8
+train_images/Image__2021-06-28__12-54-53.tiff,246,355,289,394,CD8
+train_images/Image__2021-06-28__12-54-53.tiff,365,295,404,333,CD8
+train_images/Image__2021-06-28__12-54-53.tiff,1,437,26,478,activated CD8
+train_images/Image__2021-06-28__12-55-00.tiff,88,24,132,61,activated CD8
+train_images/Image__2021-06-28__12-55-00.tiff,231,33,275,72,activated CD8
+train_images/Image__2021-06-28__12-55-00.tiff,98,90,139,121,activated CD8
+train_images/Image__2021-06-28__12-55-00.tiff,271,225,302,255,CD8
+train_images/Image__2021-06-28__12-55-00.tiff,217,249,247,277,CD8
+train_images/Image__2021-06-28__12-55-00.tiff,318,351,367,394,CD8
+train_images/Image__2021-06-28__12-55-00.tiff,61,434,103,473,CD8
+train_images/Image__2021-06-28__12-55-00.tiff,454,462,480,500,activated CD8
+train_images/Image__2021-06-28__12-55-06.tiff,100,64,133,97,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,244,151,288,189,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,60,437,100,472,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,229,380,259,409,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,275,332,309,363,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,322,355,365,392,CD8
+train_images/Image__2021-06-28__12-55-06.tiff,87,147,131,185,activated CD8
+train_images/Image__2021-06-28__12-55-06.tiff,117,172,156,205,activated CD8
+train_images/Image__2021-06-28__12-55-15.tiff,200,112,240,149,CD8
+train_images/Image__2021-06-28__12-55-15.tiff,105,164,144,200,CD8
+train_images/Image__2021-06-28__12-55-15.tiff,259,330,302,368,CD8
+train_images/Image__2021-06-28__12-55-15.tiff,322,354,369,394,CD8
+train_images/Image__2021-06-28__12-55-15.tiff,96,338,143,377,activated CD8
+train_images/Image__2021-06-28__12-55-15.tiff,57,435,100,475,CD8
+train_images/Image__2021-06-28__12-55-15.tiff,130,282,170,319,activated CD8
+train_images/Image__2021-06-28__12-55-33.tiff,341,97,375,132,CD8
+train_images/Image__2021-06-28__12-55-33.tiff,37,299,77,336,CD8
+train_images/Image__2021-06-28__12-55-33.tiff,431,407,471,447,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,229,60,264,96,activated CD8
+train_images/Image__2021-06-28__12-55-40.tiff,354,237,386,269,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,435,407,472,445,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,1,42,40,78,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,7,1,60,47,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,73,34,108,64,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,56,1,99,41,CD8
+train_images/Image__2021-06-28__12-55-40.tiff,35,17,88,73,activated CD8
+train_images/Image__2021-06-28__12-55-40.tiff,52,468,98,500,CD8
+train_images/Image__2021-06-28__12-55-51.tiff,144,196,183,233,CD8
+train_images/Image__2021-06-28__12-55-51.tiff,420,139,455,175,CD8
+train_images/Image__2021-06-28__12-55-51.tiff,86,461,122,494,CD8
+train_images/Image__2021-06-28__12-56-04.tiff,23,224,56,258,CD8
+train_images/Image__2021-06-28__12-56-04.tiff,406,230,438,257,CD8
+train_images/Image__2021-06-28__12-56-04.tiff,200,424,238,462,CD8
+train_images/Image__2021-06-28__12-56-04.tiff,415,363,445,392,CD8
+train_images/Image__2021-06-28__12-56-12.tiff,44,40,89,83,CD8
+train_images/Image__2021-06-28__12-56-12.tiff,207,102,241,136,CD8
+train_images/Image__2021-06-28__12-56-12.tiff,29,285,63,318,CD8
+train_images/Image__2021-06-28__12-56-12.tiff,198,423,237,459,CD8
+train_images/Image__2021-06-28__12-56-12.tiff,413,364,444,395,CD8
+train_images/Image__2021-06-28__12-56-23.tiff,121,122,169,168,activated CD8
+train_images/Image__2021-06-28__12-56-23.tiff,237,166,275,199,CD8
+train_images/Image__2021-06-28__12-56-23.tiff,411,183,446,219,CD8
+train_images/Image__2021-06-28__12-56-23.tiff,291,309,325,339,CD8
+train_images/Image__2021-06-28__12-56-23.tiff,264,416,303,455,CD8
+train_images/Image__2021-06-28__12-56-30.tiff,138,299,184,345,activated CD8
+train_images/Image__2021-06-28__12-56-30.tiff,250,305,287,339,CD8
+train_images/Image__2021-06-28__12-56-30.tiff,265,419,303,456,CD8
+train_images/Image__2021-06-28__12-56-30.tiff,315,436,347,467,CD8
+train_images/Image__2021-06-28__12-56-30.tiff,427,336,462,373,CD8
+train_images/Image__2021-06-28__12-56-37.tiff,222,232,259,266,CD8
+train_images/Image__2021-06-28__12-56-37.tiff,224,287,270,330,CD8
+train_images/Image__2021-06-28__12-56-37.tiff,84,450,126,485,CD8
+train_images/Image__2021-06-28__12-56-37.tiff,404,74,439,105,CD8
+train_images/Image__2021-06-28__12-56-37.tiff,253,232,299,280,activated CD8
+train_images/Image__2021-06-28__12-56-45.tiff,55,267,93,301,CD8
+train_images/Image__2021-06-28__12-56-45.tiff,303,303,337,339,CD8
+train_images/Image__2021-06-28__12-56-45.tiff,370,78,399,105,CD8
+train_images/Image__2021-06-28__12-56-45.tiff,406,112,443,150,CD8
+train_images/Image__2021-06-28__12-56-52.tiff,302,303,340,339,CD8
+train_images/Image__2021-06-28__12-56-52.tiff,385,223,415,255,CD8
+train_images/Image__2021-06-28__12-56-52.tiff,426,268,461,303,CD8
+train_images/Image__2021-06-28__12-56-52.tiff,71,435,108,468,CD8
+train_images/Image__2021-06-28__12-56-56.tiff,223,49,258,82,CD8
+train_images/Image__2021-06-28__12-56-56.tiff,303,304,340,341,CD8
+train_images/Image__2021-06-28__12-56-56.tiff,395,290,427,321,CD8
+train_images/Image__2021-06-28__12-56-56.tiff,430,342,469,378,CD8
+train_images/Image__2021-06-28__12-57-04.tiff,372,197,406,229,CD8
+train_images/Image__2021-06-28__12-57-04.tiff,310,332,351,371,CD8
+train_images/Image__2021-06-28__12-57-04.tiff,105,247,145,289,CD8
+train_images/Image__2021-06-28__12-57-04.tiff,122,230,155,263,CD8
+train_images/Image__2021-06-28__12-57-07.tiff,45,32,78,63,CD8
+train_images/Image__2021-06-28__12-57-07.tiff,117,312,153,349,CD8
+train_images/Image__2021-06-28__12-57-07.tiff,378,262,412,295,CD8
+train_images/Image__2021-06-28__12-57-07.tiff,323,397,356,434,CD8
+train_images/Image__2021-06-28__12-57-07.tiff,137,369,170,399,CD8
+train_images/Image__2021-06-28__12-57-23.tiff,135,35,176,75,CD8
+train_images/Image__2021-06-28__12-57-23.tiff,82,364,113,396,CD8
+train_images/Image__2021-06-28__12-57-40.tiff,51,51,93,87,CD8
+train_images/Image__2021-06-28__12-57-40.tiff,371,47,406,80,CD8
+train_images/Image__2021-06-28__12-57-40.tiff,210,248,246,285,CD8
+train_images/Image__2021-06-28__12-57-40.tiff,445,197,480,232,CD8
+train_images/Image__2021-06-28__12-57-40.tiff,324,417,360,459,CD8
+train_images/Image__2021-06-28__12-57-57.tiff,316,73,355,113,CD8
+train_images/Image__2021-06-28__12-57-57.tiff,75,340,106,372,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,47,225,87,264,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,234,6,267,36,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,224,75,262,113,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,280,230,311,260,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,379,143,419,182,CD8
+train_images/Image__2021-06-28__12-58-03.tiff,346,379,382,416,CD8
+train_images/Image__2021-06-28__12-58-22.tiff,21,180,58,213,CD8
+train_images/Image__2021-06-28__12-58-22.tiff,385,63,424,100,CD8
+train_images/Image__2021-06-28__12-58-22.tiff,430,255,461,285,CD8
+train_images/Image__2021-06-28__12-58-22.tiff,112,299,153,336,CD8
+train_images/Image__2021-06-28__12-58-34.tiff,33,13,65,45,CD8
+train_images/Image__2021-06-28__12-58-34.tiff,428,38,462,68,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,23,98,58,137,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,135,103,174,139,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,118,131,162,172,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,46,214,80,246,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,221,186,259,227,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,74,290,112,327,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,443,237,476,270,CD8
+train_images/Image__2021-06-28__12-58-42.tiff,312,389,357,447,activated CD8
+train_images/Image__2021-06-28__12-58-45.tiff,162,55,196,86,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,118,129,160,169,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,155,144,190,176,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,34,190,70,223,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,50,217,80,246,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,227,279,268,318,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,445,239,475,269,CD8
+train_images/Image__2021-06-28__12-58-45.tiff,81,387,117,422,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,118,128,160,168,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,174,118,210,151,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,150,198,185,231,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,49,216,80,246,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,38,268,74,302,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,236,372,275,414,CD8
+train_images/Image__2021-06-28__12-58-49.tiff,445,237,477,268,CD8
+train_images/Image__2021-06-28__12-58-58.tiff,120,129,165,173,CD8
+train_images/Image__2021-06-28__12-58-58.tiff,47,215,81,246,CD8
+train_images/Image__2021-06-28__12-58-58.tiff,190,299,226,334,CD8
+train_images/Image__2021-06-28__12-58-58.tiff,172,377,208,413,CD8
+train_images/Image__2021-06-28__12-58-58.tiff,443,238,477,268,CD8
+train_images/Image__2021-06-28__12-59-07.tiff,119,128,161,171,CD8
+train_images/Image__2021-06-28__12-59-07.tiff,48,214,80,244,CD8
+train_images/Image__2021-06-28__12-59-07.tiff,268,147,309,186,CD8
+train_images/Image__2021-06-28__12-59-07.tiff,446,236,477,268,CD8
+train_images/Image__2021-06-28__12-59-12.tiff,85,93,136,140,activated CD8
+train_images/Image__2021-06-28__12-59-12.tiff,43,267,73,298,CD8
+train_images/Image__2021-06-28__12-59-12.tiff,337,382,378,421,CD8
+train_images/Image__2021-06-28__12-59-12.tiff,410,157,445,189,CD8
+train_images/Image__2021-06-28__12-59-18.tiff,4,407,46,447,CD8
+train_images/Image__2021-06-28__12-59-18.tiff,87,304,122,336,CD8
+train_images/Image__2021-06-28__12-59-18.tiff,238,134,282,175,CD8
+train_images/Image__2021-06-28__12-59-18.tiff,335,69,375,113,activated CD8
+train_images/Image__2021-06-28__12-59-27.tiff,44,189,95,233,activated CD8
+train_images/Image__2021-06-28__12-59-27.tiff,329,271,367,308,CD8
+train_images/Image__2021-06-28__12-59-27.tiff,391,69,430,106,CD8
+train_images/Image__2021-06-28__12-59-27.tiff,425,68,468,109,CD8
+train_images/Image__2021-06-28__12-59-36.tiff,98,59,150,98,CD8
+train_images/Image__2021-06-28__12-59-36.tiff,230,395,271,431,CD8
+train_images/Image__2021-06-28__12-59-36.tiff,208,425,247,460,CD8
+train_images/Image__2021-06-28__12-59-45.tiff,123,56,159,94,CD8
+train_images/Image__2021-06-28__12-59-45.tiff,230,164,258,197,CD8
+train_images/Image__2021-06-28__12-59-45.tiff,435,288,478,330,CD8
+train_images/Image__2021-06-28__12-59-45.tiff,429,429,475,466,CD8
+train_images/Image__2021-06-28__12-59-54.tiff,59,255,105,300,CD8
+train_images/Image__2021-06-28__12-59-54.tiff,26,319,69,361,CD8
+train_images/Image__2021-06-28__12-59-54.tiff,351,252,397,291,CD8
+train_images/Image__2021-06-28__13-00-00.tiff,217,82,264,122,CD8
+train_images/Image__2021-06-28__13-00-00.tiff,327,210,369,244,CD8
+train_images/Image__2021-06-28__13-00-00.tiff,350,277,392,312,CD8
+train_images/Image__2021-06-28__13-00-00.tiff,114,384,163,421,CD8
+train_images/Image__2021-06-28__13-00-00.tiff,256,462,294,494,CD8
+train_images/Image__2021-06-28__13-00-07.tiff,38,50,83,90,CD8
+train_images/Image__2021-06-28__13-00-07.tiff,105,125,143,161,CD8
+train_images/Image__2021-06-28__13-00-07.tiff,435,287,476,328,CD8
+train_images/Image__2021-06-28__13-00-12.tiff,53,196,98,237,CD8
+train_images/Image__2021-06-28__13-00-12.tiff,115,242,154,278,CD8
+train_images/Image__2021-06-28__13-00-12.tiff,353,88,398,129,CD8
+train_images/Image__2021-06-28__13-00-12.tiff,345,22,389,63,CD8
+train_images/Image__2021-06-28__13-00-12.tiff,434,287,477,328,CD8
+train_images/Image__2021-06-28__13-00-37.tiff,175,66,216,101,CD8
+train_images/Image__2021-06-28__13-00-37.tiff,378,270,408,304,CD8
+train_images/Image__2021-06-28__13-00-37.tiff,279,355,318,390,CD8
+train_images/Image__2021-06-28__13-00-37.tiff,334,424,375,468,CD8
+train_images/Image__2021-06-28__13-00-41.tiff,188,162,223,196,CD8
+train_images/Image__2021-06-28__13-00-41.tiff,382,363,413,393,CD8
+train_images/Image__2021-06-28__13-00-41.tiff,289,459,327,490,CD8
+train_images/Image__2021-06-28__13-00-46.tiff,146,20,192,66,CD8
+train_images/Image__2021-06-28__13-00-46.tiff,191,112,234,153,CD8
+train_images/Image__2021-06-28__13-00-46.tiff,195,269,231,303,CD8
+train_images/Image__2021-06-28__13-00-46.tiff,391,466,421,495,CD8
+train_images/Image__2021-06-28__13-01-09.tiff,174,242,212,278,CD8
+train_images/Image__2021-06-28__13-01-09.tiff,218,346,254,383,CD8
+train_images/Image__2021-06-28__13-01-09.tiff,177,401,217,440,CD8
+train_images/Image__2021-06-28__13-01-13.tiff,173,43,214,81,CD8
+train_images/Image__2021-06-28__13-01-13.tiff,358,57,404,104,activated CD8
+train_images/Image__2021-06-28__13-01-13.tiff,185,338,221,373,CD8
+train_images/Image__2021-06-28__13-01-13.tiff,232,459,270,495,CD8
+train_images/Image__2021-06-28__13-01-24.tiff,202,267,246,308,CD8
+train_images/Image__2021-06-28__13-01-24.tiff,279,241,320,282,CD8
+train_images/Image__2021-06-28__13-01-24.tiff,392,375,439,426,activated CD8
